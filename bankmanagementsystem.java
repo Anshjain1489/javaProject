@@ -1,3 +1,4 @@
+package javaProject;
 import java.util.Scanner;
 class bankmanagementsystem{
     Scanner input = new Scanner(System.in);
